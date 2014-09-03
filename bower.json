@@ -1,0 +1,21 @@
+{
+  "name": "pluralsight-rotate",
+  "version": "0.0.1",
+  "description": "a simple element rotate library",
+  "main": "rotate.js",
+  "keywords": [
+    "rotate"
+  ],
+  "authors": [
+    "Paul Halliday"
+  ],
+  "license": "MIT",
+  "homepage": "www.cougar.ca",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
